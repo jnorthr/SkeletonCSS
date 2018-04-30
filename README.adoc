@@ -1,0 +1,7 @@
+= SkeletonCSS
+
+== Outline Files to build a Responsive Website
+
+A few files to be able to start a new website - some CSS classes and an image or two plus a single html page.
+
+More news available on http://www.getskeleton.com[this link].
